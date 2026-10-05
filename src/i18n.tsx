@@ -70,7 +70,7 @@ const translations = {
     "names.second": "Abdullah",
     "hero.date": "Monday, November 2, 2026",
     "loc.hours": "Monday, 7:00 PM - 11:00 PM",
-    "venue.name": "Selina Askar Hall",
+    "venue.name": "Celina Askar Hall",
     "venue.address": "Nile Corniche, Maadi – Nadi Marasi El Nahr El Khaled",
     "sch.katb": "Katb Ktab",
     "sch.katbDesc": "The signing of the marriage contract",

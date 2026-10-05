@@ -17,8 +17,8 @@ export const LocationCard = () => {
         <span>{t("loc.hours")}</span>
       </p>
       <iframe
-        title="Selina Askar Hall"
-        src="https://www.google.com/maps?q=Selina+Askar+Hall+Nile+Corniche+Maadi+Cairo&output=embed"
+        title="Celina Askar Hall"
+        src="https://www.google.com/maps?q=Celina+Askar+Hall+Nile+Corniche+Maadi+Cairo&output=embed"
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
         className="h-44 w-full rounded-lg border-0"

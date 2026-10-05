@@ -16,7 +16,7 @@ const icsLines = [
   "DTSTART:20261102T170000Z",
   "DTEND:20261102T210000Z",
   "SUMMARY:Wedding - Alaa & Abdullah",
-  "LOCATION:Selina Askar Hall - Nile Corniche\, Maadi - Cairo",
+  "LOCATION:Celina Askar Hall - Nile Corniche\, Maadi - Cairo",
   "BEGIN:VALARM",
   "TRIGGER:-P1D",
   "ACTION:DISPLAY",
