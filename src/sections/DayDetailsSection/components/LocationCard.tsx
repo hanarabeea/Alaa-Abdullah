@@ -1,5 +1,6 @@
 import { Clock, MapPin } from "lucide-react";
 import { useLanguage } from "@/i18n";
+import venueMap from "@/assets/venue-map.webp";
 
 export const LocationCard = () => {
   const { t } = useLanguage();
@@ -16,13 +17,14 @@ export const LocationCard = () => {
         <Clock size={14} />
         <span>{t("loc.hours")}</span>
       </p>
-      <iframe
-        title="Celina Askar Hall"
-        src="https://www.google.com/maps?q=Celina+Askar+Hall+Nile+Corniche+Maadi+Cairo&output=embed"
-        loading="lazy"
-        referrerPolicy="no-referrer-when-downgrade"
-        className="h-44 w-full rounded-lg border-0"
-      ></iframe>
+      <a href="https://maps.app.goo.gl/UbWa93NWZVwc23G77" target="_blank" rel="noopener noreferrer" className="block">
+        <img
+          src={venueMap}
+          alt="Map to Celina Askar Hall"
+          loading="lazy"
+          className="h-44 w-full rounded-lg object-cover"
+        />
+      </a>
     </div>
   );
 };
