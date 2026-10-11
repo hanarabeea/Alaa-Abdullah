@@ -147,7 +147,7 @@ const translations = {
     "rsvp.undo": "تراجع",
     "rsvp.clear": "مسح",
     "rsvp.penColor": "لون القلم",
-    "names.first": "آلاء",
+    "names.first": "الاء",
     "names.second": "عبدالله",
     "hero.date": "الإثنين، ٢ نوفمبر ٢٠٢٦",
     "loc.hours": "الإثنين، ٧:٠٠ م - ١١:٠٠ م",
